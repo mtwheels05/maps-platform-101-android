@@ -16,3 +16,4 @@ If you find a bug, please [file an issue]. Or, if you'd like to contribute, send
 [file an issue]: https://github.com/googlecodelabs/maps-platform-101-android/issues
 [pull request]:  https://github.com/googlecodelabs/maps-platform-101-android/compare
 [code of conduct]: CODE_OF_CONDUCT.md
+Extra line here
